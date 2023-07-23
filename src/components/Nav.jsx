@@ -17,11 +17,11 @@ const Navbar = () => {
       <div className="menu">
         <div>
           <ul>
-                <li><a href="#" className="link">Edit</a>
+                <li>Edit
                   <span> <FaSearch /></span></li>
-            <li><a href="#" className="link">Courier info</a></li>
-            <li><a href="#" className="link">Share</a></li>
-            <li><a href="#" className="link red">Remove</a></li>
+            <li>Courier info</li>
+            <li>Share</li>
+            <li>Remove</li>
           </ul>
         </div>
       </div>
