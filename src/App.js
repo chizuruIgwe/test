@@ -72,6 +72,12 @@ function App() {
           <div className='percent'><span>-2.32%</span></div>
           </div>
       </Card>
+      <div className='bt-wrapper gray-text label-wrapper'>
+        <p className='bt-label'>Day</p>
+        <p className='bt-label'>Week</p>
+        <p className='bt-label'>Month</p>
+        <p className='bt-label'>Year</p>
+      </div>
       <Card>
         <div className='bt-wrapper'>
           <div className='gray-text'>

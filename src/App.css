@@ -381,3 +381,25 @@
 .red {
   color: red
 }
+
+.bt-label {
+  color: '#AEB8C4';
+  background: transparent
+}
+
+.bt-label:hover {
+  color: '#fff';
+  background: '#AEB8C4';
+  border-radius: 5px
+}
+
+.label-wrapper {
+  width: 80%;
+  margin: 1px auto
+}
+
+.label-wrapper: hover {
+  color: '#fff';
+  background: '#AEB8C4';
+  border-radius: 5px
+}
