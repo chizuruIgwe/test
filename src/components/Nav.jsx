@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleLeft } from '@fortawesome/free-solid-svg-icons'
-import { FaSearch, } from 'react-icons/fa';
 
 const Navbar = () => {
   return (
