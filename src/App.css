@@ -52,7 +52,7 @@
   flex-direction: column;
   -webkit-box-align: center;
   -ms-flex-align: center;
-  align-items: end;
+  align-items: flex-end;
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
@@ -396,10 +396,4 @@
 .label-wrapper {
   width: 80%;
   margin: 1px auto
-}
-
-.label-wrapper:hover {
-  color: '#fff';
-  background: '#AEB8C4';
-  border-radius: 5px
 }
