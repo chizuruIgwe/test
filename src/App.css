@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  width: 40%;
+  width: 30%;
   margin: 5rem auto;
   border-radius: 1rem;
   background: #EDF0F5;
@@ -242,6 +242,15 @@
     background: #EDF0F5;
     height: auto;
   }
+  .bt-card {
+    width: 60%;
+    border-radius: 1rem;
+    overflow: hidden;
+    box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    background: white;
+    padding: 1.5rem
+  }
   {
     position: absolute;
     top: 50px;
@@ -269,7 +278,7 @@
   border-radius: 1rem;
   overflow: hidden;
   box-shadow: 0 2px 16px rgba(0, 0, 0, 0.1);
-  margin: 1rem;
+  margin: 2rem;
   background: white;
   padding: 1.5rem
 }
